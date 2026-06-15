@@ -8,7 +8,7 @@
 **DOMAIN** : FRONTEND WEB DEVELOPMENT 
 
 **INTERNSHIP PERIOD** : 17 MAY 2026 - 28 JUNE 2026 (6 WEEKS)
-<a href=" https://korikanasrija.github.io/Currency-converter/">➡️Currency converter</a>
+<a href="https://korikanasrija.github.io/Currency-converter/">➡️Currency converter</a>
 
 **Front end development**:
 Front end development is the practice of creating the part of a website or web application that users interact with directly. It involves everything you see and experience on the screen—such as layouts, buttons, images, text, navigation menus, animations, and overall visual design.
